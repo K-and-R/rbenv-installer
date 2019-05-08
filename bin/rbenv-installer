@@ -24,6 +24,7 @@ fi
 
 # Install plugins:
 PLUGINS=(
+  carsomyr/rbenv-bundler
   sstephenson/rbenv-vars
   sstephenson/ruby-build
   sstephenson/rbenv-default-gems
