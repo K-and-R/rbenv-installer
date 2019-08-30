@@ -28,7 +28,6 @@ PLUGINS=(
   sstephenson/rbenv-vars
   sstephenson/ruby-build
   sstephenson/rbenv-default-gems
-  sstephenson/rbenv-gem-rehash
   K-and-R/rbenv-installer
   K-and-R/rbenv-bootstrap
   rkh/rbenv-update
